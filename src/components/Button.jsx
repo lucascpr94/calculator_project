@@ -15,10 +15,3 @@ export default props => {
         </button>
     )
 }
-
-// ou : no lugar de classes : `
-        // button
-        // ${props.operation ? 'operation' : ''}
-        // ${props.double ? 'double' : ''}
-        // ${props.triple ? 'triple' : ''}
-        // `
